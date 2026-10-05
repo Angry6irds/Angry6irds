@@ -78,7 +78,7 @@ Apasionado por la arquitectura de software, la creación de experiencias inmersi
       <ul>
         <li><b>Rol:</b> Project Lead & Desarrollador.</li>
         <li><b>Equipo:</b> TeamRoot.</li>
-        <li><b>Destacado técnico:</b> Sistemas de locomoción pulidos, gestión de inventario, shaders para efectos ambientales y coordinación general del pipeline de producción.</li>
+        <li><b>Destacado técnico:</b> Una novela visual con sistemas de dialogos pulidos, gestión de inventario, puzzles simples y coordinación general del pipeline de producción.</li>
       </ul>
     </td>
   </tr>
@@ -92,7 +92,7 @@ Apasionado por la arquitectura de software, la creación de experiencias inmersi
       </p>
       <ul>
         <li><b>Rol:</b> Desarrollador.</li>
-        <li><b>Destacado técnico:</b> Lógica y mecánicas en desarrollo 2D, balance de sistemas de supervivencia y estructuración de código en Unity / C#.</li>
+        <li><b>Destacado técnico:</b> Lógica y mecánicas en desarrollo 2D, balance de sistemas de juego simples, misiones, puzzles y estructuración de código en Unity / C#.</li>
       </ul>
     </td>
   </tr>
