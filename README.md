@@ -56,7 +56,7 @@ Apasionado por la arquitectura de software, la creación de experiencias inmersi
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🥽 The Awakening: The Vessel</h3>
+      <h3 align="center">🥽 Awakening: The Vessel</h3>
       <p align="center">
         <a href="https://mokarun.itch.io/awekening-the-vessel">
           <img src="https://img.shields.io/badge/Jugar_en-Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Play The Vessel"/>
