@@ -1,68 +1,107 @@
-# 👨‍💻 Hola, soy Alejandro Limon 👨‍💻
-
-<p align="center">
+<div align="center">
+  <p align="center">
   <img src="docs/img/teamroot.jpg" alt="TeamRoot Logo" width="260" />
 </p>
 
-Soy un **Estudiante en desarrollo de software** apasionado por la creación de aplicaciones eficientes y soluciones innovadoras. Mi enfoque principal es escribir código limpio, bien documentado y eficiente, con un fuerte énfasis en la calidad y el rendimiento.
-
-## 🛠️ Tecnologías que manejo
-
-### Lenguajes de programación:
-- **C#**
-
-### Herramientas y Frameworks:
-- **Git / GitHub**
-- **Unity**
-- **Ubuntu**
-
-### Otros:
-- **Linux** (Ubuntu, Debian)
-- **Scrum / Agile methodologies**
-- **TDD (Test Driven Development)**
-
-## 💼 Experiencia
-
-### Participacion en la Global GameJam 2025
-- Desarrollo de aplicaciones web utilizando **React** y **Node.js**.
-- Diseño de bases de datos y optimización de consultas SQL.
-- Implementación de pruebas automatizadas usando **Jest** y **Mocha**.
-- Participación en el ciclo de vida completo del desarrollo de software desde la planificación hasta la implementación.
-
-### Desarrollador Backend | [Empresa Y] | 2020 - 2022
-- Creación de APIs RESTful en **Node.js** y **Express**.
-- Integración con bases de datos **MongoDB** y **PostgreSQL**.
-- Implementación de servicios en **AWS Lambda** para escalar aplicaciones sin servidor.
-
-## 🚀 Proyectos Destacados
-
-### [Proyecto 1](https://github.com/tuusuario/proyecto1)
-- **Descripción**: Un sistema de gestión de tareas que permite a los usuarios crear, editar y eliminar tareas.
-- **Tecnologías**: React, Node.js, MongoDB.
-- **Enlace**: [Ver Proyecto en GitHub](https://github.com/tuusuario/proyecto1)
-
-### [Proyecto 2](https://github.com/tuusuario/proyecto2)
-- **Descripción**: Plataforma de comercio electrónico con funcionalidades avanzadas de búsqueda y filtrado.
-- **Tecnologías**: JavaScript, Express, PostgreSQL.
-- **Enlace**: [Ver Proyecto en GitHub](https://github.com/tuusuario/proyecto2)
-
-## 📚 Educación
-
-- **Licenciatura en Ciencias de la Computación** | Universidad XYZ | 2016 - 2020
-
-## 📞 Contáctame
-
-Puedes contactarme a través de los siguientes enlaces:
-
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
-- [Correo Electrónico](mailto:tu.email@dominio.com)
+  # ¡Hola, soy Alejandro! 👋
+  ### **Game Developer & Project Lead | TeamRoot**
+  
+  Estudiante de Desarrollo de Software Interactivo y Videojuegos en **Universidad Amerike** 🎓
+  
+  <p align="center">
+    <a href="https://mokarun.itch.io/">
+      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." – *Cory House*
+### 👨‍💻 Sobre mí
+
+Apasionado por la arquitectura de software, la creación de experiencias inmersivas y el liderazgo técnico. Como líder de proyecto y programador en **TeamRoot**, me enfoco en convertir ideas de diseño en sistemas escalables y mecánicas de juego fluidas, trabajando desde títulos 2D hasta entornos de Realidad Virtual (VR).
+
+* 🎮 **Especialidad:** Programación de mecánicas, arquitectura en C#, integración de audio, shaders y sistemas de interacción VR.
+* 👥 **Liderazgo:** Coordinación y gestión de proyectos con metodologías ágiles en entornos colaborativos.
+* 📍 **Base:** Ciudad de México.
 
 ---
 
-**Gracias por visitar mi perfil en GitHub!** 🚀
+### 🛠️ Tech Stack & Herramientas
 
+<div align="center">
+
+#### **Motores y Lenguajes**
+![Unity](https://img.shields.io/badge/Unity_(URP)-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+#### **Control de Versiones y Gestión**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### **Entornos de Desarrollo y Diseño**
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🥽 The Awakening: The Vessel</h3>
+      <p align="center">
+        <a href="https://mokarun.itch.io/awekening-the-vessel">
+          <img src="https://img.shields.io/badge/Jugar_en-Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Play The Vessel"/>
+        </a>
+      </p>
+      <ul>
+        <li><b>Rol:</b> Project Lead & Desarrollador Principal.</li>
+        <li><b>Equipo:</b> TeamRoot.</li>
+        <li><b>Destacado técnico:</b> Experiencia inmersiva desarrollada con <b>tecnología VR</b>, mecánicas de interacción en espacio tridimensional, sistemas de audio atmosférico e implementación en Unity URP.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔮 The Awakening: Lost Innocence</h3>
+      <p align="center">
+        <a href="https://mokarun.itch.io/the-awakening-lost-innosences">
+          <img src="https://img.shields.io/badge/Jugar_en-Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Play Lost Innocence"/>
+        </a>
+      </p>
+      <ul>
+        <li><b>Rol:</b> Project Lead & Desarrollador.</li>
+        <li><b>Equipo:</b> TeamRoot.</li>
+        <li><b>Destacado técnico:</b> Sistemas de locomoción pulidos, gestión de inventario, shaders para efectos ambientales y coordinación general del pipeline de producción.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🎒 Foráneo Simulator</h3>
+      <p align="center">
+        <a href="https://xtianlors.itch.io/foraneo-simulator">
+          <img src="https://img.shields.io/badge/Jugar_en-Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="Play Foráneo Simulator"/>
+        </a>
+      </p>
+      <ul>
+        <li><b>Rol:</b> Desarrollador.</li>
+        <li><b>Destacado técnico:</b> Lógica y mecánicas en desarrollo 2D, balance de sistemas de supervivencia y estructuración de código en Unity / C#.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Contacto & Portafolio
+
+* 🎮 **Itch.io:** [mokarun.itch.io](https://mokarun.itch.io/)
+* 💼 **LinkedIn:** *()*
+* ✉️ **Email:** *(alejandro.limonpe@gmail.com)*
