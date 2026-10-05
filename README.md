@@ -1,5 +1,9 @@
 # 👨‍💻 Hola, soy Alejandro Limon 👨‍💻
 
+<p align="center">
+  <img src="docs/img/teamroot.jpg" alt="TeamRoot Logo" width="260" />
+</p>
+
 Soy un **Estudiante en desarrollo de software** apasionado por la creación de aplicaciones eficientes y soluciones innovadoras. Mi enfoque principal es escribir código limpio, bien documentado y eficiente, con un fuerte énfasis en la calidad y el rendimiento.
 
 ## 🛠️ Tecnologías que manejo
